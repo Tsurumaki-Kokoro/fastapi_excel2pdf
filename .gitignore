@@ -1,0 +1,3 @@
+/app/utils/temp/*
+!/app/utils/temp/
+/venv/
